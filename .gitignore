@@ -6,6 +6,3 @@ node_modules
 .output
 .env
 dist
-
-.gitignore
-package-lock.json
